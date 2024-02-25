@@ -17,6 +17,14 @@ backdrop-filter: blur(10.7px);
 -webkit-backdrop-filter: blur(10.7px);
 }
 
+.tutors{
+  overflow-x: scroll;
+  display: flex;
+  gap: 90px;
+  max-width: 100%;
+  transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+}
 
 .navbar-brand{
     color: crimson;
@@ -104,6 +112,7 @@ footer{
   .fot{
     text-align: center;
   }
+ 
   @media (max-width: 600px) {
     .list{
       display: flex;
