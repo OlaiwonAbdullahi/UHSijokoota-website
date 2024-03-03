@@ -1,8 +1,8 @@
 body{
     background-color: white;
     overflow-x: hidden;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 2px;
+    margin-right: 2px;
     font-family: "Genos", sans-serif;
 }
 .logo-1{
@@ -19,6 +19,7 @@ backdrop-filter: blur(10.7px);
 }
 
 .tutors{
+width:100%;
   overflow-x: scroll;
   display: flex;
   gap: 90px;
