@@ -19,7 +19,6 @@ backdrop-filter: blur(10.7px);
 }
 
 .tutors{
-width:100%;
   overflow-x: scroll;
   display: flex;
   gap: 90px;
