@@ -1,9 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
 body{
     background-color: white;
-    overflow-x: hidden;
     margin-left: 2px;
     margin-right: 2px;
     font-family: "Genos", sans-serif;
+    overflow-x: hidden;
 }
 .logo-1{
     width:50px;
@@ -17,14 +22,17 @@ background: white;
 backdrop-filter: blur(10.7px);
 -webkit-backdrop-filter: blur(10.7px);
 }
-
+label{
+    font-weight: bold;
+}
 .tutors{
-  overflow-x: scroll;
   display: flex;
   gap: 90px;
   max-width: 100%;
   transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
+
+  
 }
 
 .navbar-brand{
@@ -90,7 +98,7 @@ backdrop-filter: blur(10.7px);
     
 }
 footer{
-    background: crimson;
+    background-color: crimson !important;
     color: #000;
     padding: 15px;
     margin-bottom: 0px;
