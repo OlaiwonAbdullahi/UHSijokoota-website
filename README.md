@@ -50,22 +50,21 @@ Contributions are welcome! But are limited to the school students. If you'd like
   <img src="images/geniuslogo.jpg" style="height:30px;width:20px;>
 </p>
 
-
-<h4>Abdullahi Olaiwon</h4>
-<h5>Team Lead</h5>
+Abdullahi Olaiwon
+Team Lead
 https://github.com/OlaiwonAbdullahi/
 
 
-<h4>John Nwabueze</h4>
-<h5>Core-contributor</h5>
+John Nwabueze
+Core-contributor
 https://github.com/Johnnwabueze01/
 
 
-<h4>Joseph lamidi </h4>
-<h5>Core-contributor</h5>
+Joseph lamidi 
+Core-contributor
 https://github.com/Jaycode01/
 
 
-<h4>Adedamola Aderogba</h4>
-<h5>Member</h5>
+Adedamola Aderogba
+Member
 https://github.com/AderogbaAdedamola/
