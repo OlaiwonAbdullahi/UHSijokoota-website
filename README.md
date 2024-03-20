@@ -1,23 +1,21 @@
 <p>
-  <img src="images/UHS-logo.jpg" style="height:30px;width:20px;>
+  <img src="images/UHS-logo.jpg" style="height:50px;width:50px;>
 </p>
 
 <h1>Unity High School Ijoko OTA website GitHub respository</h2>
 
-Overview
+*Overview*
 
 This repository contains the source code for the Unity High  school Ijoko OTA website. It aims to provide information about the school, its programs, faculty, and upcoming events.
+Features
 
-
-<h3>Features
-</h3>
 - Homepage with brief information about the school
 - About us Sections where visitor will know more about the school 
 - Blogs which contains News, Articles by students of the school and upcoming events
 - Contact us Page where visitors can get in touch with the school 
 
 
-<h3>Technologies used</h3>
+*Technologies used*
 
 >HTML
 >CSS
@@ -33,7 +31,7 @@ This repository contains the source code for the Unity High  school Ijoko OTA we
 -Font awesome
 
 
-<h3>Contributing</h3>
+*Contributing*
 Contributions are welcome! But are limited to the school students. If you'd like to contribute to the project, please follow these steps:
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature`)
@@ -45,7 +43,7 @@ Contributions are welcome! But are limited to the school students. If you'd like
 
 
 
-<h3>Developers</h3>
+*Developers*
 
 Abdullahi Olaiwon
 Team Lead
