@@ -4,7 +4,7 @@
 
 <h1>Unity High School Ijoko OTA website GitHub respository</h2>
 
-<h3>Overview<h3>
+Overview
 
 This repository contains the source code for the Unity High  school Ijoko OTA website. It aims to provide information about the school, its programs, faculty, and upcoming events.
 
@@ -46,9 +46,6 @@ Contributions are welcome! But are limited to the school students. If you'd like
 
 
 <h3>Developers</h3>
-<p>
-  <img src="images/geniuslogo.jpg" style="height:30px;width:20px;>
-</p>
 
 Abdullahi Olaiwon
 Team Lead
