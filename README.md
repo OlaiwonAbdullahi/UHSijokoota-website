@@ -1,6 +1,4 @@
-<p>
-  <img src="images/UHS-logo.jpg" style="height:50px;width:50px;>
-</p>
+
 
 <h1>Unity High School Ijoko OTA website GitHub respository</h2>
 
