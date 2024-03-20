@@ -1,4 +1,6 @@
-![Alt text](images/UHS-logo.jpg)Unity High School Ijoko OTA website GitHub respository
+<img src="images/UHS-logo.jpg" style="height:30px;width:20px;>
+
+<h1>Unity High School Ijoko OTA website GitHub respository</h2>
 
 #Overview
 
@@ -39,7 +41,7 @@ Contributions are welcome! But are limited to the school students. If you'd like
 
 #Developers
 <p>
-  <img src="images/UHS-logo.jpg">
+  <img src="images/geniuslogo.jpg" style="height:30px;width:20px;>
 </p>
 
 Abdullahi Olaiwon
