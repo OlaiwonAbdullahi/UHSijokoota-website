@@ -5,7 +5,9 @@
 *Overview*
 
 This repository contains the source code for the Unity High  school Ijoko OTA website. It aims to provide information about the school, its programs, faculty, and upcoming events.
-Features
+
+
+*Features*
 
 - Homepage with brief information about the school
 - About us Sections where visitor will know more about the school 
@@ -30,6 +32,8 @@ Features
 
 
 *Contributing*
+
+
 Contributions are welcome! But are limited to the school students. If you'd like to contribute to the project, please follow these steps:
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature`)
@@ -44,20 +48,35 @@ Contributions are welcome! But are limited to the school students. If you'd like
 *Developers*
 
 Abdullahi Olaiwon
+
+
 Team Lead
+
+
 https://github.com/OlaiwonAbdullahi/
 
 
 John Nwabueze
+
+
 Core-contributor
+
+
 https://github.com/Johnnwabueze01/
 
 
 Joseph lamidi 
+
+
 Core-contributor
+
+
 https://github.com/Jaycode01/
 
 
 Adedamola Aderogba
+
+
 Member
+
 https://github.com/AderogbaAdedamola/
