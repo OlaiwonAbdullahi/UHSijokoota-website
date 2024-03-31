@@ -43,6 +43,7 @@ label{
 
 .navbar-brand{
     color: crimson;
+   font-family: "Teko", sans-serif; 
 }
 
 
@@ -70,19 +71,17 @@ label{
 
 .herologo {
     margin-top: 30px;
-    font-family: "Philosopher", sans-serif;
     font-size: 3.5vw;
     float:right;
     margin-bottom: 10px;
     margin-right: 0px;
 }
 .ht{
-    font-family: "Philosopher", sans-serif;
+    
        
 }
  .herotext{
     margin-top: 10px;
-    font-family: "Philosopher", sans-serif;
     font-size: 3.5vw;
     float:left;
     margin-bottom: 10px;
@@ -96,8 +95,8 @@ label{
 .num {
     color: white;
     font-size: 5vw;
-    margin-right: 0pxs;
-
+    margin-right: 0px;
+margin-buttom:2rem;
 }
 .accordion-header {overflow: visible;}
 @media screen {
