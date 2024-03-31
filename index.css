@@ -10,7 +10,7 @@ body{
     font-family: "Genos", sans-serif;
     overflow-x: hidden;
 }
-.sora-wp {
+h1 {
   font-family: "Sora", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
