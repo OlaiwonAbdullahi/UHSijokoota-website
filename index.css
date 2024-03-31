@@ -13,6 +13,12 @@ body{
 h1 {
   font-family: "Sora", sans-serif;
   font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+    }
+h2 {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
     }
@@ -94,7 +100,7 @@ label{
 }
 .num {
     color: white;
-    font-size: 5vw;
+    font-size: 2rem;
     margin-right: 0px;
 margin-buttom:2rem;
 }
