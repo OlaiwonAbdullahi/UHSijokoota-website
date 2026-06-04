@@ -1,5 +1,0 @@
-[[redirects]]
-    from = "/*"
-    to = "https://unityhighschool.vercel.app/"
-    status = 301
-    force = true
